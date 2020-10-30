@@ -4,10 +4,14 @@ Dr. Avantika Lal is a biological scientist with experience in computational and 
 
 Her areas of expertise include Genomics, Functional genomics, Next-generation sequencing (NGS), Microbiology, Cancer biology, Bioinformatics, Computational Biology, Machine learning, and Deep learning.
 
-
 ## Publications
 
 Google scholar profile: https://scholar.google.com/citations?user=CLgOCOAAAAAJ
 
 ## Contact me
 Email: avantika0290 AT gmail DOT com
+
+## Follow me
+Twitter: https://twitter.com/lal_avantika
+
+LinkedIn: https://www.linkedin.com/in/avantikalal/
