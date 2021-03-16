@@ -7,12 +7,14 @@ Prior to joining NVIDIA, she was a postdoctoral researcher in the Departments of
 Her areas of expertise include functional genomics, next-generation sequencing, cancer genomics, bioinformatics, computational biology, machine learning, and deep learning.
 
 ## Publications
-
-Google scholar profile: https://scholar.google.com/citations?user=CLgOCOAAAAAJ
+<a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
 ## Contact
 Email: avantika0290 AT gmail DOT com
 
 ## Follow
-Twitter: https://twitter.com/lal_avantika
-LinkedIn: https://www.linkedin.com/in/avantikalal/
+<a href="https://twitter.com/lal_avantika">Twitter</a>
+
+<a href="https://www.linkedin.com/in/avantikalal/">LinkedIn</a>
+
+
