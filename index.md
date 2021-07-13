@@ -9,6 +9,9 @@ Her areas of expertise include functional genomics, next-generation sequencing, 
 ## Publications
 <a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
+## Peer Reviewer Information
+<a href="https://publons.com/researcher/1138815/avantika-lal/peer-review/">Publons profile</a>
+
 ## Contact
 Email: avantika0290 AT gmail DOT com
 
