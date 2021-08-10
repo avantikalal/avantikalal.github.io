@@ -1,8 +1,8 @@
 ## About
 
-Dr. Avantika Lal is a biological scientist with experience in computational and experimental genomics, next-generation sequencing and machine learning. She is currently a Senior Genomic Data Scientist at Insitro.
+Dr. Avantika Lal is a computational biologist whose research focuses on the application of machine learning and deep learning to genomic data. She is currently a Senior Genomic Data Scientist at Insitro.
 
-Previously, she was a Senior Scientist in Deep Learning and Genomics at NVIDIA, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University. Her research focuses on development of machine learning and deep learning tools to analyze genomic data.
+Previously, she was a Senior Scientist in Deep Learning and Genomics at NVIDIA, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
 
 Her areas of expertise include functional genomics, next-generation sequencing, cancer genomics, bioinformatics, computational biology, machine learning, and deep learning.
 
