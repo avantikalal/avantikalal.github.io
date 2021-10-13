@@ -25,7 +25,7 @@ I frequently give academic and industry talks on the topic of machine learning i
 2021
 
 - Machine Learning for Personalized Cancer Genomics, San Francisco State University
-- [Machine Learning Tools to Analyze Gene Expression and Regulation](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3), National Cancer Institute, Bethesda, MD [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf)
+- [Machine Learning Tools to Analyze Gene Expression and Regulation](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3), National Cancer Institute, Bethesda, MD
 - [Accelerated Computing and Deep Learning for Single-cell Genomics](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning), GPU Technology Conference (GTC)
 - Accelerating Single-Cell Genomics with Machine Learning, University of Miami
 - [Accelerate and scale genomic analysis with open source analytics](https://cloudonair.withgoogle.com/events/genomic-analysis), Google 
@@ -38,6 +38,8 @@ I frequently give academic and industry talks on the topic of machine learning i
 - [Accelerating Single-cell Genomics with Machine Learning and Deep Learning](https://www.youtube.com/watch?v=1_OIXRU71gs), Indian Institute of Technology (IIT) Delhi
 - [Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences](https://www.youtube.com/watch?v=pIAgJW3KYXM) (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University
 - Panelist on Emerging Technologies in the Biotech Industry, Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center)
+- Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
+
 
 ## Contact Me
 Email: avantika0290 AT gmail DOT com
