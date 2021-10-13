@@ -22,18 +22,22 @@ My areas of expertise include functional genomics, next-generation sequencing, c
 ## Public speaking
 I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
 
-Machine Learning for Personalized Cancer Genomics | San Francisco State University | October 2021
+2021
 
-- Machine Learning Tools to Analyze Gene Expression and Regulation | National Cancer Institute, Bethesda, MD | July 2021 | [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf) | [Recording](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3)
-- Accelerated Computing and Deep Learning for Single-cell Genomics | GPU Technology Conference (GTC) 2021 | April 2021 | [Recording](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning)
-- Accelerating Single-Cell Genomics with Machine Learning | University of Miami | April 2021
-- Accelerate and scale genomic analysis with open source analytics | Webinar with Google | April 2021 | [Recording](https://cloudonair.withgoogle.com/events/genomic-analysis)
-- GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS | Chan Zuckerberg Institute (CZI) | April 2021
-- Deep learning Based Enhancement of Epigenomics Data with AtacWorks | Massachusetts Institute of Technology (MIT) | March 2021 | [Recording](https://www.youtube.com/watch?v=5usrA2yWQjw)
-- Machine Learning in Bioinformatics | DNANexus webinar | January 2021 | [Recording](https://www.dnanexus.com/webinar-ml-in-biomedical-research)
-- Accelerating Single-cell Genomics with Machine Learning and Deep Learning | Indian Institute of Technology (IIT), Delhi | December 2020 | [Recording](https://www.youtube.com/watch?v=1_OIXRU71gs)
-- Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences (Invited keynote) | Ken Kennedy Institute Virtual Data Science Conference, Rice University | October 2020 | [Recording](https://www.youtube.com/watch?v=pIAgJW3KYXM)
-- Panelist on Emerging Technologies in the Biotech Industry | Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center) | September 2020
+- Machine Learning for Personalized Cancer Genomics, San Francisco State University
+- Machine Learning Tools to Analyze Gene Expression and Regulation, National Cancer Institute, Bethesda, MD [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf) [Recording](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3)
+- Accelerated Computing and Deep Learning for Single-cell Genomics, GPU Technology Conference (GTC) [Recording](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning)
+- Accelerating Single-Cell Genomics with Machine Learning, University of Miami
+- Accelerate and scale genomic analysis with open source analytics, Google [Recording](https://cloudonair.withgoogle.com/events/genomic-analysis)
+- GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS, Chan Zuckerberg Institute (CZI)
+- Deep learning Based Enhancement of Epigenomics Data with AtacWorks, Massachusetts Institute of Technology (MIT) [Recording](https://www.youtube.com/watch?v=5usrA2yWQjw)
+- Machine Learning in Bioinformatics, DNANexus  [Recording](https://www.dnanexus.com/webinar-ml-in-biomedical-research)
+
+2020
+
+- Accelerating Single-cell Genomics with Machine Learning and Deep Learning, Indian Institute of Technology (IIT) Delhi [Recording](https://www.youtube.com/watch?v=1_OIXRU71gs)
+- Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University [Recording](https://www.youtube.com/watch?v=pIAgJW3KYXM)
+- Panelist on Emerging Technologies in the Biotech Industry, Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center)
 
 ## Contact Me
 Email: avantika0290 AT gmail DOT com
