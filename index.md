@@ -1,4 +1,4 @@
-## About
+## Avantika Lal
 
 ![Photo](/docs/assets/avantika_photo (1).png)
 
