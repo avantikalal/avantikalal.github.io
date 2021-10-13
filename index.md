@@ -25,18 +25,18 @@ I frequently give academic and industry talks on the topic of machine learning i
 2021
 
 - Machine Learning for Personalized Cancer Genomics, San Francisco State University
-- Machine Learning Tools to Analyze Gene Expression and Regulation, National Cancer Institute, Bethesda, MD [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf) [Recording](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3)
-- Accelerated Computing and Deep Learning for Single-cell Genomics, GPU Technology Conference (GTC) [Recording](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning)
+- [Machine Learning Tools to Analyze Gene Expression and Regulation](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3), National Cancer Institute, Bethesda, MD [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf)
+- [Accelerated Computing and Deep Learning for Single-cell Genomics](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning), GPU Technology Conference (GTC)
 - Accelerating Single-Cell Genomics with Machine Learning, University of Miami
-- Accelerate and scale genomic analysis with open source analytics, Google [Recording](https://cloudonair.withgoogle.com/events/genomic-analysis)
+- [Accelerate and scale genomic analysis with open source analytics](https://cloudonair.withgoogle.com/events/genomic-analysis), Google 
 - GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS, Chan Zuckerberg Institute (CZI)
-- Deep learning Based Enhancement of Epigenomics Data with AtacWorks, Massachusetts Institute of Technology (MIT) [Recording](https://www.youtube.com/watch?v=5usrA2yWQjw)
-- Machine Learning in Bioinformatics, DNANexus  [Recording](https://www.dnanexus.com/webinar-ml-in-biomedical-research)
+- [Deep learning Based Enhancement of Epigenomics Data with AtacWorks](https://www.youtube.com/watch?v=5usrA2yWQjw), Massachusetts Institute of Technology (MIT)
+- [Machine Learning in Bioinformatics](https://www.dnanexus.com/webinar-ml-in-biomedical-research), DNANexus
 
 2020
 
-- Accelerating Single-cell Genomics with Machine Learning and Deep Learning, Indian Institute of Technology (IIT) Delhi [Recording](https://www.youtube.com/watch?v=1_OIXRU71gs)
-- Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University [Recording](https://www.youtube.com/watch?v=pIAgJW3KYXM)
+- [Accelerating Single-cell Genomics with Machine Learning and Deep Learning](https://www.youtube.com/watch?v=1_OIXRU71gs), Indian Institute of Technology (IIT) Delhi
+- [Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences](https://www.youtube.com/watch?v=pIAgJW3KYXM) (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University
 - Panelist on Emerging Technologies in the Biotech Industry, Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center)
 
 ## Contact Me
