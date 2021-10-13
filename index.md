@@ -1,21 +1,53 @@
 ![Photo](/docs/assets/avantika_photo (1).png)
 
-Dr. Avantika Lal is a computational biologist whose research focuses on the application of machine learning and deep learning to genomic data. She is currently a Senior Genomic Data Scientist at Insitro.
+I am a computational biologist with an interest in the application of machine learning and deep learning to genomic data. Currently, I work as a Senior Genomic Data Scientist at [Insitro](https://insitro.com).
 
-Previously, she was a Senior Scientist in Deep Learning and Genomics at NVIDIA, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
+Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
 
-Her areas of expertise include functional genomics, next-generation sequencing, cancer genomics, bioinformatics, computational biology, machine learning, and deep learning.
+My areas of expertise include functional genomics, next-generation sequencing, cancer genomics, machine learning and deep learning.
 
-## Publications
+- [Publications and Patents](#Publications and Patents)
+- [Peer Review](#Peer Review)
+- [Public speaking](#Public speaking)
+- [Contact Me](#Contact Me)
+- [Follow Me](#Follow Me)
+
+
+## Publications and Patents
 <a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
-## Peer Reviewer Information
+## Peer Review
 <a href="https://publons.com/researcher/1138815/avantika-lal/peer-review/">Publons profile</a>
 
-## Contact
+## Public speaking
+I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
+
+Machine Learning for Personalized Cancer Genomics | San Francisco State University | October 2021
+
+Machine Learning Tools to Analyze Gene Expression and Regulation | National Cancer Institute, Bethesda, MD | July 2021 | [Presentation](https://cbiit.github.io/p2p-datasci/attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf) | [Recording](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3)
+
+Accelerated Computing and Deep Learning for Single-cell Genomics | GPU Technology Conference (GTC) 2021 | April 2021 | [Recording](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning)
+
+Accelerating Single-Cell Genomics with Machine Learning | University of Miami | April 2021
+
+Accelerate and scale genomic analysis with open source analytics | Webinar with Google | April 2021 | [Recording](https://cloudonair.withgoogle.com/events/genomic-analysis)
+
+GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS | Chan Zuckerberg Institute (CZI) | April 2021
+
+Deep learning Based Enhancement of Epigenomics Data with AtacWorks | Massachusetts Institute of Technology (MIT) | March 2021 | [Recording](https://www.youtube.com/watch?v=5usrA2yWQjw)
+
+Machine Learning in Bioinformatics | DNANexus webinar | January 2021 | [Recording](https://www.dnanexus.com/webinar-ml-in-biomedical-research)
+
+Accelerating Single-cell Genomics with Machine Learning and Deep Learning | Indian Institute of Technology (IIT), Delhi | December 2020 | [Recording](https://www.youtube.com/watch?v=1_OIXRU71gs)
+
+Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences (Invited keynote) | Ken Kennedy Institute Virtual Data Science Conference, Rice University | October 2020 | [Recording](https://www.youtube.com/watch?v=pIAgJW3KYXM)
+
+Panelist on Emerging Technologies in the Biotech Industry | Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center) | September 2020
+
+## Contact Me
 Email: avantika0290 AT gmail DOT com
 
-## Follow
+## Follow Me
 <a href="https://twitter.com/lal_avantika">Twitter</a>
 
 <a href="https://www.linkedin.com/in/avantikalal/">LinkedIn</a>
