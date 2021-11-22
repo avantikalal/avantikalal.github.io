@@ -6,6 +6,7 @@ Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA, an
 
 My areas of expertise include functional genomics, next-generation sequencing, cancer genomics, machine learning and deep learning.
 
+- [Industry Resume (November 2021)] (#Industry Resume)
 - [Publications and Patents](#Publications and Patents)
 - [Peer Review](#Peer Review)
 - [Public speaking](#Public speaking)
@@ -24,13 +25,13 @@ I frequently give academic and industry talks on the topic of machine learning i
 
 2021
 
-- Machine Learning for Personalized Cancer Genomics, San Francisco State University
 - [Machine Learning Tools to Analyze Gene Expression and Regulation](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3), National Cancer Institute, Bethesda, MD
 - [Accelerated Computing and Deep Learning for Single-cell Genomics](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning), GPU Technology Conference (GTC)
-- Accelerating Single-Cell Genomics with Machine Learning, University of Miami
+- [Deep learning Based Enhancement of Epigenomics Data with AtacWorks](https://www.youtube.com/watch?v=5usrA2yWQjw), MIT Department of Computer Science
 - [Accelerate and scale genomic analysis with open source analytics](https://cloudonair.withgoogle.com/events/genomic-analysis), Google 
 - GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS, Chan Zuckerberg Institute (CZI)
-- [Deep learning Based Enhancement of Epigenomics Data with AtacWorks](https://www.youtube.com/watch?v=5usrA2yWQjw), Massachusetts Institute of Technology (MIT)
+- Accelerating Single-Cell Genomics with Machine Learning, University of Miami
+- Machine Learning for Personalized Cancer Genomics, San Francisco State University
 - [Machine Learning in Bioinformatics](https://www.dnanexus.com/webinar-ml-in-biomedical-research), DNANexus
 
 2020
@@ -40,6 +41,8 @@ I frequently give academic and industry talks on the topic of machine learning i
 - Panelist on Emerging Technologies in the Biotech Industry, Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center)
 - Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
 
+## Industry Resume
+<a href="https://drive.google.com/file/d/1mQHJeqPHdbMEyCNJ_yCAWah17CbMStZh/view?usp=sharing">PDF updated November 2021</a>
 
 ## Contact Me
 Email: avantika0290 AT gmail DOT com
