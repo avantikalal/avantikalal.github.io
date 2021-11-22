@@ -6,7 +6,7 @@ Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA, an
 
 My areas of expertise include functional genomics, next-generation sequencing, cancer genomics, machine learning and deep learning.
 
-- [Industry Resume (November 2021)] (#Industry Resume)
+- [Industry Resume (November 2021)](#Industry Resume)
 - [Publications and Patents](#Publications and Patents)
 - [Peer Review](#Peer Review)
 - [Public speaking](#Public speaking)
