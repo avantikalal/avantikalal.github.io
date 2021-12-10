@@ -41,9 +41,6 @@ I frequently give academic and industry talks on the topic of machine learning i
 - Panelist on Emerging Technologies in the Biotech Industry, Tri-I Biotech Club (Weill Cornell Medicine, Rockefeller University, and Memorial Sloan Kettering Cancer Center)
 - Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
 
-## Industry Resume
-<a href="https://drive.google.com/file/d/1mQHJeqPHdbMEyCNJ_yCAWah17CbMStZh/view?usp=sharing">PDF updated November 2021</a>
-
 ## Contact Me
 Email: avantika0290 AT gmail DOT com
 
