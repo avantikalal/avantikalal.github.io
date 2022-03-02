@@ -42,7 +42,7 @@ I frequently give academic and industry talks on the topic of machine learning i
 - Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
 
 ## Contact Me
-Email: avantika0290 AT gmail DOT com
+Email: avantikalal02 AT gmail DOT com
 
 ## Follow Me
 <a href="https://twitter.com/lal_avantika">Twitter</a>
