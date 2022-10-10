@@ -1,27 +1,38 @@
 ![Photo](/docs/assets/avantika_photo (1).png)
 
-I am a computational biologist with an interest in the application of machine learning and deep learning to genomic data. Currently, I work as a Senior Genomic Data Scientist at [Insitro](https://insitro.com).
+I am a computational biologist with a deep interest in the application of machine learning and deep learning to genomic data. Currently, I work as a Senior Genomic Data Scientist at [Insitro](https://insitro.com).
 
-Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
+Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA Research, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
 
-My areas of expertise include functional genomics, next-generation sequencing, cancer genomics, machine learning and deep learning.
+My areas of expertise include functional next-generation sequencing, single-cell genomics, cancer genomics, machine learning and deep learning.
 
-- [Industry Resume (December 2021)](https://drive.google.com/file/d/1V38etQWRqQhnJGbrRPR1pQFWoGpGFW3C/view?usp=sharing)
+- [Industry Resume (October 2022)](https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing)
 - [Publications and Patents](#publications-and-patents)
 - [Peer Review](#peer-review)
 - [Public speaking](#public-speaking)
 - [Contact Me](#contact-me)
 - [Follow Me](#follow-me)
 
+## Industry Resume
+<a href="https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing">View here</a>
 
 ## Publications and Patents
 <a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
 ## Peer Review
-<a href="https://publons.com/researcher/1138815/avantika-lal/peer-review/">Publons profile</a>
+I actively participate in peer review in the areas of computational biology and machine learning for genomics. I have performed 76 reviews of 55 papers for leading journals and conferences, including <i>Nucleic Acids Research</i>, <i>Communications Biology</i>, <i>PLOS Computational Biology</i> and <i>Scientific Reports</i>. Please reach out to me via the email below for peer review.
+
+## Grant Review
+I actively participate in grant review for funding bodies in the areas of computational biology and machine learning for genomics. I have reviewed recently for the Chan Zuckerberg Initiative. Please reach out to me via the email below.
 
 ## Public speaking
 I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
+
+2022
+
+- Optimizing Drug Target ID Through AI (forthcoming podcast at https://biorad.io/)
+- Data Science in the Era of Digital Biology, San Francisco State University
+- Machine Learning for Genomics, University of Miami
 
 2021
 
@@ -31,7 +42,6 @@ I frequently give academic and industry talks on the topic of machine learning i
 - [Accelerate and scale genomic analysis with open source analytics](https://cloudonair.withgoogle.com/events/genomic-analysis), Google 
 - GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS, Chan Zuckerberg Institute (CZI)
 - Accelerating Single-Cell Genomics with Machine Learning, University of Miami
-- Machine Learning for Personalized Cancer Genomics, San Francisco State University
 - [Machine Learning in Bioinformatics](https://www.dnanexus.com/webinar-ml-in-biomedical-research), DNANexus
 
 2020
