@@ -21,17 +21,17 @@ My areas of expertise include functional genomics, next-generation sequencing, s
 <a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
 ## Peer Review
-I actively participate in peer review in the areas of computational biology and machine learning for genomics. I have performed 76 reviews of 55 papers for leading journals and conferences, including <i>Nucleic Acids Research</i>, <i>Communications Biology</i>, <i>PLOS Computational Biology</i> and <i>Scientific Reports</i>. Please reach out to me via the email below for peer review.
+I actively participate in peer review in the areas of computational biology and machine learning. I have performed 76 reviews of 55 papers for leading journals and conferences, including <i>Nucleic Acids Research</i>, <i>Communications Biology</i>, <i>PLOS Computational Biology</i> and <i>Scientific Reports</i>. Please reach out to me via the email below for peer review.
 
 ## Grant Review
-I actively participate in grant review for funding bodies in the areas of computational biology and machine learning for genomics. I have reviewed recently for the Chan Zuckerberg Initiative. Please reach out to me via the email below.
+I actively participate in grant review for funding bodies in the areas of computational biology and machine learning. I have reviewed recently for the Chan Zuckerberg Initiative. Please reach out to me via the email below.
 
 ## Public speaking
 I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
 
 2022
 
-- Optimizing Drug Target ID Through AI (forthcoming podcast at https://biorad.io/)
+- Optimizing Drug Target ID Through AI (forthcoming podcast with [Biorad.io](https://biorad.io/))
 - Data Science in the Era of Digital Biology, San Francisco State University
 - Machine Learning for Genomics, University of Miami
 
@@ -42,7 +42,6 @@ I frequently give academic and industry talks on the topic of machine learning i
 - [Deep learning Based Enhancement of Epigenomics Data with AtacWorks](https://www.youtube.com/watch?v=5usrA2yWQjw), MIT Department of Computer Science
 - [Accelerate and scale genomic analysis with open source analytics](https://cloudonair.withgoogle.com/events/genomic-analysis), Google 
 - GPU-Accelerated Single-Cell Genomics Analysis with RAPIDS, Chan Zuckerberg Institute (CZI)
-- Accelerating Single-Cell Genomics with Machine Learning, University of Miami
 - [Machine Learning in Bioinformatics](https://www.dnanexus.com/webinar-ml-in-biomedical-research), DNANexus
 
 2020
