@@ -4,7 +4,7 @@ I am a computational biologist with a deep interest in the application of machin
 
 Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA Research, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
 
-My areas of expertise include functional next-generation sequencing, single-cell genomics, cancer genomics, machine learning and deep learning.
+My areas of expertise include functional genomics, next-generation sequencing, single-cell genomics, cancer genomics, machine learning and deep learning.
 
 - [Industry Resume (October 2022)](https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing)
 - [Publications and Patents](#publications-and-patents)
