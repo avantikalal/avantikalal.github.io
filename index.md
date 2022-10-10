@@ -9,6 +9,7 @@ My areas of expertise include functional genomics, next-generation sequencing, s
 - [Industry Resume (October 2022)](https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing)
 - [Publications and Patents](#publications-and-patents)
 - [Peer Review](#peer-review)
+- [Grant Review](#grant-review)
 - [Public speaking](#public-speaking)
 - [Contact Me](#contact-me)
 - [Follow Me](#follow-me)
