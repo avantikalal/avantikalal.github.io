@@ -37,7 +37,7 @@ I actively participate in peer review in the areas of computational biology and 
 ---
 
 # Grant Review
-I actively participate in grant review for funding bodies in the areas of computational biology and machine learning. I have reviewed recently for the Chan Zuckerberg Initiative. Please reach out to me via the email below.
+I actively participate in grant review for funding bodies in the areas of computational biology and machine learning. I have reviewed recently for the <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>. Please reach out to me via the email below.
 
 ---
 
