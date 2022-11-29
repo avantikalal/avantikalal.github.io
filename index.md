@@ -44,7 +44,7 @@ I actively participate in grant review for funding bodies in the areas of comput
 # Public speaking
 I frequently give academic and industry talks on the topic of machine learning in genomics. A few selected recent talks:
 
-[![Podcast](https://www.bioradiations.com/wp-content/uploads/2019/10/19-0740_bioradio_podcast_square_236x236.jpg)](https://www.bioradiations.com/bioradio/#ep15)
+[![Podcast](/docs/assets/19-0740_bioradio_podcast_square_236x236.jpeg)](https://www.bioradiations.com/bioradio/#ep15)
 
 ### 2022
 
