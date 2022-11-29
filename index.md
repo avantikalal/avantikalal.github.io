@@ -74,6 +74,12 @@ Email: avantikalal02 AT gmail DOT com
 ---
 
 # Follow Me
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/lal_avantika.svg?style=social&label=Follow%20%40lal_avantika)](https://twitter.com/lal_avantika)
+
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-linkedin"></i>
+
 <a href="https://twitter.com/lal_avantika">Twitter</a>
 
 <a href="https://www.linkedin.com/in/avantikalal/">LinkedIn</a>
