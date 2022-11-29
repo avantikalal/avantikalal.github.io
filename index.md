@@ -10,7 +10,6 @@ My areas of expertise include functional genomics, next-generation sequencing, s
 
 <br>
 
-
 - [Industry Resume (October 2022)](https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing)
 - [Publications and Patents](#publications-and-patents)
 - [Peer Review](#peer-review)
@@ -43,11 +42,13 @@ I actively participate in grant review for funding bodies in the areas of comput
 ---
 
 # Public speaking
-I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
+I frequently give academic and industry talks on the topic of machine learning in genomics. A few selected recent talks:
+
+[![Podcast](https://www.bioradiations.com/wp-content/uploads/2019/10/19-0740_bioradio_podcast_square_236x236.jpg)](https://www.bioradiations.com/bioradio/#ep15)
 
 ### 2022
 
-- Optimizing Drug Target ID Through AI (forthcoming podcast with [Biorad.io](https://biorad.io/))
+- Optimizing Drug Target ID Through AI (podcast with [Biorad.io](https://www.bioradiations.com/bioradio/#ep15))
 - Data Science in the Era of Digital Biology, San Francisco State University
 - Machine Learning for Genomics, University of Miami
 
@@ -64,7 +65,6 @@ I frequently give academic and industry talks on the topic of machine learning i
 
 - [Accelerating Single-cell Genomics with Machine Learning and Deep Learning](https://www.youtube.com/watch?v=1_OIXRU71gs), Indian Institute of Technology (IIT) Delhi
 - [Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences](https://www.youtube.com/watch?v=pIAgJW3KYXM) (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University
-- Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
 
 ---
 
