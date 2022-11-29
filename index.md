@@ -1,6 +1,6 @@
 ![Photo](/docs/assets/avantika_photo (1).png){: style="float: left"; margin-right: 1em;"}
 
-## About
+# About
 
 I am a computational biologist with a deep interest in the application of machine learning and deep learning to genomic data. Currently, I work as a Senior Genomic Data Scientist at [Insitro](https://insitro.com).
 
