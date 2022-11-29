@@ -8,7 +8,7 @@ Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA Res
 
 My areas of expertise include functional genomics, next-generation sequencing, single-cell genomics, cancer genomics, machine learning and deep learning.
 
-
+<br>
 
 
 - [Industry Resume (October 2022)](https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing)
@@ -19,17 +19,28 @@ My areas of expertise include functional genomics, next-generation sequencing, s
 - [Contact Me](#contact-me)
 - [Follow Me](#follow-me)
 
+
+---
+
 # Industry Resume
 <a href="https://docs.google.com/document/d/1oLhoU6DYCuCPgKcXjuDB8sWhUXVTxT-DFwnY9bSI9WE/edit?usp=sharing">View here</a>
+
+---
 
 # Publications and Patents
 <a href="https://scholar.google.com/citations?user=CLgOCOAAAAAJ">Google Scholar profile</a>
 
+---
+
 # Peer Review
 I actively participate in peer review in the areas of computational biology and machine learning. I have performed 76 reviews of 55 papers for leading journals and conferences, including <i>Nucleic Acids Research</i>, <i>Communications Biology</i>, <i>PLOS Computational Biology</i> and <i>Scientific Reports</i>. Please reach out to me via the email below for peer review.
 
+---
+
 # Grant Review
 I actively participate in grant review for funding bodies in the areas of computational biology and machine learning. I have reviewed recently for the Chan Zuckerberg Initiative. Please reach out to me via the email below.
+
+---
 
 # Public speaking
 I frequently give academic and industry talks on the topic of machine learning in genomics. Some recent talks:
@@ -55,8 +66,12 @@ I frequently give academic and industry talks on the topic of machine learning i
 - [Real Time, GPU-Accelerated Analysis and Visualization in the Life Sciences](https://www.youtube.com/watch?v=pIAgJW3KYXM) (Invited keynote), Ken Kennedy Institute Virtual Data Science Conference, Rice University
 - Accelerated Computing and Deep Learning for Single-Cell Genomics, New York Genome Center
 
+---
+
 # Contact Me
 Email: avantikalal02 AT gmail DOT com
+
+---
 
 # Follow Me
 <a href="https://twitter.com/lal_avantika">Twitter</a>
