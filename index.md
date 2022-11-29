@@ -75,11 +75,7 @@ Email: avantikalal02 AT gmail DOT com
 
 # Follow Me
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/lal_avantika.svg?style=social&label=Follow%20%40lal_avantika)](https://twitter.com/lal_avantika)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lal_avantika)
 
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=social&label=Follow%20%40avantikalal)](linkedin.com/in/avantikalal/)
-
-<i class="fa-brands fa-twitter"></i>
-<i class="fa-brands fa-linkedin"></i>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/avantikalal/)
 
