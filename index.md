@@ -2,9 +2,9 @@
 
 # About
 
-I am a computational biologist with a deep interest in the application of machine learning and deep learning to genomic data. Currently, I work as a Senior Genomic Data Scientist at [Insitro](https://insitro.com).
+I am a researcher working at the cross-section of machine learning and genomics. The goal of my research is to use machine learning methods, particularly deep learning, to identify patterns in human genomic data that reveal the molecular mechanisms underlying complex diseases and result in new treatments. 
 
-Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA Research, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
+Currently, I work as a Senior Data Scientist at [Insitro](https://insitro.com). Previously, I was a Senior Scientist in Deep Learning and Genomics at NVIDIA Research, and a postdoctoral researcher in the Departments of Genetics and Pathology at Stanford University.
 
 My areas of expertise include functional genomics, next-generation sequencing, single-cell genomics, cancer genomics, machine learning and deep learning.
 
