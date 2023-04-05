@@ -1,4 +1,4 @@
-![Photo](/docs/assets/avantika_photo (1).png){: style="float: left"; margin-right: 1em;"}
+<img src="/docs/assets/IMG-9489.jpeg" width="300" height="315" />
 
 # About
 
