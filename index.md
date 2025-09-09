@@ -11,7 +11,6 @@ Currently, I work as a Principal AI Scientist at Genentech (Roche). Previously, 
 - [Industry Resume (September 2024)](#industry-resume)
 - [Publications and Patents](#publications-and-patents)
 - [Peer Review](#peer-review)
-- [Grant Review](#grant-review)
 - [Public speaking](#public-speaking)
 - [Contact Me](#contact-me)
 - [Follow Me](#follow-me)
@@ -30,12 +29,7 @@ Currently, I work as a Principal AI Scientist at Genentech (Roche). Previously, 
 ---
 
 # Peer Review
-I actively participate in peer review in the machine learning + genomics field, including for <i>Nature Genetics</i>, <i>Nucleic Acids Research</i>, and <i>NeurIPS</i>. Please reach out to me via the email below for peer review.
-
----
-
-# Grant Review
-I actively participate in grant review for funding bodies in the areas of computational biology and machine learning. I have reviewed recently for the <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>. Please reach out to me via the email below.
+I actively participate in peer review in the machine learning + genomics field, including for <i>Nature Genetics</i>, <i>Nature Methods</i>, and <i>NeurIPS</i>. Please reach out to me via the email below.
 
 ---
 
@@ -44,13 +38,19 @@ I frequently give academic and industry talks on the topic of machine learning i
 
 [![Podcast](/docs/assets/19-0740_bioradio_podcast_square_236x236.jpeg)](https://www.bioradiations.com/bioradio/#ep15)
 
-### 2022
+### 2025
 
-- Optimizing Drug Target ID Through AI (podcast with [Biorad.io](https://www.bioradiations.com/bioradio/#ep15))
-- Data Science in the Era of Digital Biology, San Francisco State University
-- Machine Learning for Genomics, University of Miami
+- Upcoming: Decoding sequence determinants of gene expression in diverse cellular and disease states,  Annual Meeting of the American Society of Human Genetics (ASHG), Boston, MA, 2025.
+- Decoding sequence determinants of gene expression in diverse cellular and disease states, Biology of Genomes, Cold Spring Harbor Laboratory, NY, 2025.
+- AI-Guided Design of Nucleic Acids for Therapeutic Applications, Society for Lab Automation and Screening (SLAS) 2025 Conference, San Diego, CA, 2025
 
-### 2021
+### 2024
+
+- gReLU: A Comprehensive Python Framework for DNA Sequence Modeling and Design, Machine Learning in Computational Biology (MLCB), Seattle, WA, 2024
+- Decima: Decoding sequence determinants of gene expression in diverse cellular and disease states, Machine Learning in Computational Biology (MLCB), Seattle, WA, 2024
+- "regLM: Designing realistic regulatory DNA with autoregressive language models", 28th Annual International Conference on Research in Computational Molecular Biology (RECOMB), Boston, MA, 2024
+
+### Older
 
 - [Machine Learning Tools to Analyze Gene Expression and Regulation](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3), National Cancer Institute, Bethesda, MD
 - [Accelerated Computing and Deep Learning for Single-cell Genomics](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc91274-accelerating+genomics+with+deep+learning), GPU Technology Conference (GTC)
@@ -68,7 +68,8 @@ Email: avantikalal02 AT gmail DOT com
 
 # Follow Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lal_avantika)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://web-cdn.bsky.app/profile/avantikalal.bsky.social)
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/avantikalal/)
 
