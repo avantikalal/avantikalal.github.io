@@ -43,13 +43,12 @@ Masatoshi Uehara, Yulai Zhao, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Eras
 *Genome Research* 34, no. 9 (2024): 1411-1420. 
 [Read Paper](https://genome.cshlp.org/content/34/9/1411.short)
 
-### 2021
+### Older
 **Deep learning-based enhancement of epigenomics data with AtacWorks.**
 **Avantika Lal**, Zachary D. Chiang, Nikolai Yakovenko, Fabiana M. Duarte, Johnny Israeli, and Jason D. Buenrostro. 
 *Nature Communications* 12, no. 1 (2021): 1507. 
 [Read Paper](https://www.nature.com/articles/s41467-021-21765-5)
 
-### 2018
 **Multi-omic tumor data reveal diversity of molecular mechanisms that correlate with survival.**
 Daniele Ramazzotti, **Avantika Lal**, Bo Wang, Serafim Batzoglou, and Arend Sidow. 
 *Nature Communications* 9, no. 1 (2018): 1-14. 
