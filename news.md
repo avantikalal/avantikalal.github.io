@@ -19,7 +19,6 @@ subtitle: Recent talks, media appearances, and conference highlights.
 
 ---
 
----
 ### Featured Media
 
 * **Nature Feature** – I was interviewed by *Nature* for the article **"[Generative AI is coming for DNA](https://www.nature.com/articles/d41586-025-02621-8)"**, where I discussed our work on **regLM**, a genomic language model designed to engineer regulatory DNA sequences with specific functions.
