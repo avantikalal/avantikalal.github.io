@@ -28,7 +28,7 @@ Beyond prediction, I am interested in synthesis - engineering DNA sequences to a
 ### Scalable Infrastructure for Genomic AI
 To bridge the gap between AI research and widespread biological application, I build high-performance software frameworks that enable biologists to easily adopt AI.
 
-* **[gReLU](https://www.nature.com/articles/s41592-025-02868-z):** Developed at Genentech, gReLU is a comprehensive software ecosystem designed to standardize and accelerate the training of genomic deep learning models. It provides modular components for data handling, model architecture, and interpretability, allowing researchers to move seamlessly from raw DNA sequences to biologically meaningful insights.
+* **[gReLU](https://www.nature.com/articles/s41592-025-02868-z):** Developed at Genentech, gReLU is a comprehensive software package designed to standardize and accelerate the training of genomic deep learning models. It provides modular components for data handling, model architecture, and interpretability, allowing researchers to move seamlessly from raw DNA sequences to biologically meaningful insights.
 
 * **[RAPIDS for Single-Cell Genomics](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.abstract):** At NVIDIA, I led the development of GPU-accelerated workflows for single-cell analysis. We reduced data processing times from hours to seconds, enabling the real-time analysis of datasets containing millions of cells.
 
