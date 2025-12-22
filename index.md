@@ -2,47 +2,30 @@
 layout: page
 ---
 <div class="hero-section" style="
-    background: url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
     width: 100%;
-    min-height: 120px; /* This forces the wide rectangular shape */
+    min-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 30px 20px;
+    padding: 60px 20px;
     margin-top: -50px;
-    opacity: 0.3;
     border-bottom: 1px solid #eee;">
     
-  <h1 style="
-      color: #1a1a1a; 
-      font-weight: 800; 
-      font-size: 3rem; 
-      margin: 0; 
-      padding-bottom: 10px;
-      letter-spacing: -1px;">
+  <h1 style="color: #1a1a1a; font-weight: 800; font-size: 3rem; margin: 0; padding-bottom: 10px; letter-spacing: -1px;">
     Avantika Lal, PhD
   </h1>
 
-  <div style="
-      width: 60px; 
-      height: 4px; 
-      background-color: #008080; /* A touch of teal for professional flair */
-      margin: 10px 0 20px 0;">
-  </div>
+  <div style="width: 60px; height: 4px; background-color: #008080; margin: 10px 0 20px 0;"></div>
 
-  <h3 style="
-      color: #444; 
-      font-weight: 500; 
-      font-size: 1.4rem; 
-      margin: 0; 
-      letter-spacing: 1px;
-      text-transform: uppercase;">
+  <h3 style="color: #444; font-weight: 300; font-size: 1.4rem; margin: 0; letter-spacing: 1px; text-transform: uppercase;">
     Deep Learning &bull; Genomics &bull; Drug Discovery
   </h3>
 </div>
+
 
 ![Avantika Lal](/assets/img/Avantika_Lal.jpeg){: .mx-auto .d-block style="max-width: 300px; border-radius: 15px; margin-bottom: 30px;"}
 
