@@ -13,7 +13,7 @@ layout: page
     text-align: center;
     padding: 30px 20px;
     margin-top: -50px;
-    opacity: 0.6;
+    opacity: 0.3;
     border-bottom: 1px solid #eee;">
     
   <h1 style="
