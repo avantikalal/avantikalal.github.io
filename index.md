@@ -4,6 +4,8 @@ title: Avantika Lal, PhD
 subtitle: Deep Learning | Genomics | Drug Discovery
 ---
 
+![Avantika Lal](/assets/img/Avantika_Lal.png){: .mx-auto .d-block style="max-width: 300px; border-radius: 15px; margin-bottom: 30px;"}
+
 ## About Me
 I am a Principal Machine Learning Scientist at Genentech, where I lead efforts to develop foundation models and generative AI models for human DNA.
 
