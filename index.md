@@ -8,7 +8,7 @@ layout: page
     margin-left: -50vw;
     margin-right: -50vw;
     width: 100vw;
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('{{ '/assets/img/alt_bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
     min-height: 150px;
     display: flex;
