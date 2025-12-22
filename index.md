@@ -11,7 +11,7 @@ layout: page
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 60px 20px;
+    padding: 30px 20px;
     margin-top: -50px;
     border-bottom: 1px solid #eee;">
     
