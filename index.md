@@ -2,6 +2,9 @@
 layout: page
 title: Avantika Lal, PhD
 subtitle: Deep Learning | Genomics | Drug Discovery
+bigimg: 
+  - src: "/assets/img/bg.jpg"
+    desc: "Genomic AI Background"
 ---
 
 ![Avantika Lal](/assets/img/Avantika_Lal.jpeg){: .mx-auto .d-block style="max-width: 300px; border-radius: 15px; margin-bottom: 30px;"}
