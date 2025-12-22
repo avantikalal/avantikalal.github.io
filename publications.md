@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: Peer-reviewed research and preprints.
 ---
 
 <div class="alert alert-info">
@@ -68,3 +67,9 @@ Johnny Israeli, **Avantika Lal**, Michael Vella, Nikolai Yakovenko, and Zhen Hu.
 Nikolai Yakovenko, Johnny Israeli, **Avantika Lal**, Michael Vella, and Zhen Hu. 
 *U.S. Patent 12,387,817*, 2025.
 [View Patent](https://patents.google.com/patent/US12387817B2/en)
+
+---
+
+## Peer Review
+
+I serve as a peer reviewer for several journals (e.g. *Nature Methods, Nature Genetics, Nucleic Acids Research*) and conferences (e.g. *NeurIPS, ICML, Recomb*).
