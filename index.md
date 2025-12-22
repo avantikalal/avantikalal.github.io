@@ -34,7 +34,7 @@ layout: page
 
   <h3 style="
       color: #444; 
-      font-weight: 300; 
+      font-weight: 500; 
       font-size: 1.4rem; 
       margin: 0; 
       letter-spacing: 1px;
