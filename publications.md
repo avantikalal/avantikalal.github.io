@@ -72,4 +72,4 @@ Nikolai Yakovenko, Johnny Israeli, **Avantika Lal**, Michael Vella, and Zhen Hu.
 
 ## Peer Review
 
-I serve as a peer reviewer for several journals (e.g. *Nature Methods, Nature Genetics, Nucleic Acids Research*) and conferences (e.g. *NeurIPS, ICML, RECOMB*).
+I serve as a peer reviewer for several journals (e.g. *Nature Methods, Nature Genetics, Nucleic Acids Research*), conferences (e.g. *NeurIPS, ICML, RECOMB*), and academic grants.
