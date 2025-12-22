@@ -5,7 +5,7 @@ layout: page
     background: url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
     width: 100%;
-    min-height: 300px; /* This forces the wide rectangular shape */
+    min-height: 200px; /* This forces the wide rectangular shape */
     display: flex;
     flex-direction: column;
     justify-content: center;
