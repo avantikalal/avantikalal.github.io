@@ -1,18 +1,46 @@
 ---
 layout: page
 ---
-<div class="intro-header big-img" style="background-image: url('{{ '/assets/img/bg.png' | relative_url }}'); background-size: cover; background-position: center; padding: 100px 0; color: white; text-align: center; margin-top: -50px;">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1 style="font-weight: 800; font-size: 3.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Avantika Lal, PhD</h1>
-          <hr class="small" style="border-color: white; max-width: 100px; border-width: 3px;">
-          <span class="page-subheading" style="font-size: 1.5rem; font-weight: 300; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Deep Learning | Genomics | Drug Discovery</span>
-        </div>
-      </div>
-    </div>
+<div class="hero-section" style="
+    background: url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
+    background-size: cover; 
+    width: 100%;
+    min-height: 300px; /* This forces the wide rectangular shape */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px 20px;
+    margin-top: -50px;
+    border-bottom: 1px solid #eee;">
+    
+  <h1 style="
+      color: #1a1a1a; 
+      font-weight: 800; 
+      font-size: 3rem; 
+      margin: 0; 
+      padding-bottom: 10px;
+      letter-spacing: -1px;">
+    Avantika Lal, PhD
+  </h1>
+
+  <div style="
+      width: 60px; 
+      height: 4px; 
+      background-color: #008080; /* A touch of teal for professional flair */
+      margin: 10px 0 20px 0;">
   </div>
+
+  <h3 style="
+      color: #444; 
+      font-weight: 300; 
+      font-size: 1.4rem; 
+      margin: 0; 
+      letter-spacing: 1px;
+      text-transform: uppercase;">
+    Deep Learning &bull; Genomics &bull; Drug Discovery
+  </h3>
 </div>
 
 ![Avantika Lal](/assets/img/Avantika_Lal.jpeg){: .mx-auto .d-block style="max-width: 300px; border-radius: 15px; margin-bottom: 30px;"}
