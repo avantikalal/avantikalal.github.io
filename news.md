@@ -12,8 +12,8 @@ subtitle: Recent talks, media appearances, and conference highlights.
 
 ### Recent
 
+* **November 2025** – Visited Stanford University for the **scverse conference** to share insights on Decima with the single-cell community, specifically highlighting its applications in modeling diverse cellular and disease states.
 * **October 2025** – I traveled to Boston for **ASHG 2025**, where I presented our latest work on Decima, focusing on how our foundation model identifies the sequence determinants of gene expression at cell-type specific resolution.
-* **August 2025** – Visited Stanford University for the **scverse conference** to share insights on Decima with the single-cell community, specifically highlighting its applications in modeling diverse cellular and disease states.
 * **May 2025** – I had the pleasure of returning to the **Biology of Genomes** meeting at Cold Spring Harbor Laboratory (CSHL) to present our progress in decoding the regulatory grammar of the human genome using Decima.
 * **January 2025** – I gave an invited talk at the **Society for Lab Automation and Screening (SLAS) 2025** in San Diego, titled *"AI-Guided Design of Nucleic Acids for Therapeutic Applications,"* where I discussed the shift toward generative design in DNA/RNA therapeutics.
 
