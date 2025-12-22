@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Avantika Lal, PhD
-subtitle: Deep Learning | Genomics | Drug Discovery
-bigimg:
-  - src: "/assets/img/bg.png"
-    desc: "Genomic AI Background"
 ---
+<div class="intro-header big-img" style="background-image: url('{{ '/assets/img/bg.png' | relative_url }}'); background-size: cover; background-position: center; padding: 100px 0; color: white; text-align: center; margin-top: -50px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1 style="font-weight: 800; font-size: 3.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Avantika Lal, PhD</h1>
+          <hr class="small" style="border-color: white; max-width: 100px; border-width: 3px;">
+          <span class="page-subheading" style="font-size: 1.5rem; font-weight: 300; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Deep Learning | Genomics | Drug Discovery</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ![Avantika Lal](/assets/img/Avantika_Lal.jpeg){: .mx-auto .d-block style="max-width: 300px; border-radius: 15px; margin-bottom: 30px;"}
 
