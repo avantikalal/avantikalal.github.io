@@ -21,6 +21,6 @@ subtitle: Recent talks, media appearances, and conference highlights.
 
 ### Featured Media
 
-* **Nature Feature** – I was interviewed by *Nature* for the article **"[Generative AI is coming for DNA](https://www.nature.com/articles/d41586-025-02621-8)"**, where I discussed our work on **regLM**, a genomic language model designed to engineer regulatory DNA sequences with specific functions.
+* **Nature Feature** – I was interviewed by *Nature* for the feature article **"[Beyond AlphaFold: how AI is decoding the grammar of the genome](https://www.nature.com/articles/d41586-025-02621-8)"**, where I discussed our work on **regLM**, a genomic language model designed to engineer regulatory DNA sequences with specific functions.
 
 * **Podcast Feature** – I joined Kashef Qaadri on the **[biorad.io podcast](https://podcasts.apple.com/us/podcast/episode-15-optimizing-drug-target-identification-through/id1482819808?i=1000582312782)** for an in-depth conversation on how AI is optimizing drug target identification and the future of AI in drug discovery.
