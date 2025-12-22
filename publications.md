@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: A complete list of peer-reviewed research and preprints.
+subtitle: Peer-reviewed research and preprints.
 ---
 
 <div class="alert alert-info">
