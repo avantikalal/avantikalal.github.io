@@ -22,7 +22,7 @@ author: Avantika Lal
 # Note: You will need to create 'research.md' and 'software.md' files later.
 navbar-links:
   Research: "research"
-  Software: "software"
+#  Software: "software"
   Publications: "publications"
   News: "news"
 
