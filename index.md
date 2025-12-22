@@ -23,5 +23,4 @@ Before joining Genentech, I spent my career at the intersection of technology in
 
 I am passionate about advancing our ability to read and write the code of life. I frequently speak on the future of AI in medicine and love connecting with others who are building at this frontier.
 
-[Get in Touch](mailto:{{ site.social-network-links.email }}) | [View Research](/research) | [GitHub](https://github.com/{{ site.social-network-links.github }})
-[Read more about my research](/research) | [View Publications](/publications) | [Key Projects](/projects) | [Recent News](/news) 
+[Get in Touch](mailto:{{ site.social-network-links.email }}) | [Read more about my research](/research) | [View Publications](/publications) | [Recent News](/news) 
