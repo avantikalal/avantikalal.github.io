@@ -5,8 +5,8 @@ layout: page
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
+    margin-left: -10vw;
+    margin-right: -10vw;
     width: 100vw;
     background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
