@@ -37,5 +37,3 @@ Meaningful discovery requires high-fidelity data. At NVIDIA, I worked on deep le
 
 ## 5. Translation: AI in the Clinic & Drug Discovery
 Ultimately, my work aims to translate insights derived from AI models into therapeutic impact. At **insitro** and **Genentech**, I have worked on applying AI models to identify novel drug targets and design therapeutic molecules. During my postdoctoral work at Stanford University, I developed AI models to [predict patient outcomes](https://www.nature.com/articles/s41467-018-06921-8) and discover [mutational signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009119) using personalized genomic data from cancer patients.
-
- By [clustering patients](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009119) based on these signatures rather than just tumor location, we can identify subgroups that may respond similarly to specific therapies, advancing the goal of precision oncology.
