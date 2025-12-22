@@ -2,18 +2,23 @@
 layout: page
 ---
 <div class="hero-section" style="
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
-    width: 100%;
-    min-height: 120px;
+    min-height: 350px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 60px 20px;
+    padding: 40px 0;
     margin-top: -50px;
-    border-bottom: 1px solid #eee;">
+    border-bottom: 1px solid #f0f0f0;">
     
   <h1 style="color: #1a1a1a; font-weight: 800; font-size: 3rem; margin: 0; padding-bottom: 10px; letter-spacing: -1px;">
     Avantika Lal, PhD
