@@ -23,7 +23,7 @@ subtitle: Peer-reviewed research and preprints.
 [Read Paper](https://www.nature.com/articles/s41592-025-02868-z)
 
 **Fine-tuning discrete diffusion models via reward optimization with applications to DNA and protein design.**
-Wang, Chenyu, Masatoshi Uehara, Yichun He, Amy Wang, **Avantika Lal**, Tommi Jaakkola, Sergey Levine, Aviv Regev, Hanchen, and Tommaso Biancalani. 
+Chenyu Wang, Masatoshi Uehara, Yichun He, Amy Wang, **Avantika Lal**, Tommi Jaakkola, Sergey Levine, Aviv Regev, Hanchen, and Tommaso Biancalani. 
 *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025. 
 [Read Paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/771e09dd204ea339da0d8114c48afd21-Paper-Conference.pdf)
 
@@ -34,7 +34,7 @@ Wang, Chenyu, Masatoshi Uehara, Yichun He, Amy Wang, **Avantika Lal**, Tommi Jaa
 [Read Paper](https://www.nature.com/content/10.1101/2024.10.09.617507v3.abstract)
 
 **Bridging model-based optimization and generative modeling via conservative fine-tuning of diffusion models.**
-Uehara, Masatoshi, Yulai Zhao, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Eraslan, **Avantika Lal**, Sergey Levine, and Tommaso Biancalani. 
+Masatoshi Uehara, Yulai Zhao, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Eraslan, **Avantika Lal**, Sergey Levine, and Tommaso Biancalani. 
 *Advances in Neural Information Processing Systems (NeurIPS)* 37 (2024): 127511-127535. 
 [Read Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html)
 
@@ -51,7 +51,7 @@ Uehara, Masatoshi, Yulai Zhao, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Era
 
 ### 2018
 **Multi-omic tumor data reveal diversity of molecular mechanisms that correlate with survival.**
-Ramazzotti, Daniele, **Avantika Lal**, Bo Wang, Serafim Batzoglou, and Arend Sidow. 
+Daniele Ramazzotti, **Avantika Lal**, Bo Wang, Serafim Batzoglou, and Arend Sidow. 
 *Nature Communications* 9, no. 1 (2018): 1-14. 
 [Read Paper](https://www.nature.com/articles/s41467-018-06921-8)
 
@@ -61,11 +61,11 @@ Ramazzotti, Daniele, **Avantika Lal**, Bo Wang, Serafim Batzoglou, and Arend Sid
 ## Patents
 
 **Genetic mutation detection using deep learning.**
-Israeli, Johnny, **Avantika Lal**, Michael Vella, Nikolai Yakovenko, and Zhen Hu. 
+Johnny Israeli, **Avantika Lal**, Michael Vella, Nikolai Yakovenko, and Zhen Hu. 
 *U.S. Patent 12,094,572*, 2024.
 [View Patent](https://patents.google.com/patent/US12094572B1/en)
 
 **Sequence variation detection using deep learning.**
-Yakovenko, Nikolai, Johnny Israeli, **Avantika Lal**, Michael Vella, and Zhen Hu. 
+Nikolai Yakovenko, Johnny Israeli, **Avantika Lal**, Michael Vella, and Zhen Hu. 
 *U.S. Patent 12,387,817*, 2025.
 [View Patent](https://patents.google.com/patent/US12387817B2/en)
