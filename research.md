@@ -10,9 +10,9 @@ My research mission is to model large-scale, multimodal genomic data to understa
 ---
 
 ### Foundation Models for Genomics
-I develop DNA Foundation Models that learn the evolutionary and functional language of the genome from massive datasets. 
+I develop DNA foundation models that learn the evolutionary and functional language of the genome from massive datasets. 
 
-For example, [Decima](https://www.biorxiv.org/content/10.1101/2024.10.09.617507v1) is a state-of-the-art foundation model designed to predict gene expression directly from DNA sequences with unprecedented cell-type specificity. By leveraging large-scale single-cell genomic data, Decima learns to predict the functional impact of genetic mutations at a high resolution, revealing how genetic variants drive disease pathology across different cells in the human body.
+For example, [Decima](https://www.biorxiv.org/content/10.1101/2024.10.09.617507v1) is a state-of-the-art model designed to predict gene expression directly from DNA sequences with unprecedented cell-type specificity. By leveraging large-scale single-cell genomic data, Decima learns to predict the functional impact of genetic mutations at a high resolution, revealing how genetic variants drive disease pathology across different cells in the human body.
 
 ---
 
