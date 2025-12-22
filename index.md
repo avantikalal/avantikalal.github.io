@@ -5,7 +5,7 @@ layout: page
     background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
     width: 100%;
-    min-height: 300px;
+    min-height: 120px;
     display: flex;
     flex-direction: column;
     justify-content: center;
