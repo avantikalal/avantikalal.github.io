@@ -1,5 +1,5 @@
-layout: page
 ---
+layout: page
 title: Research
 subtitle: Decoding the human genome through AI.
 ---
