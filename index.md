@@ -10,7 +10,7 @@ layout: page
     width: 100vw;
     background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('{{ '/assets/img/bg.png' | relative_url }}') no-repeat center center;
     background-size: cover; 
-    min-height: 350px;
+    min-height: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
