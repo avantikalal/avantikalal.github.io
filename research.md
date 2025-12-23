@@ -19,7 +19,7 @@ For example, **[Decima](https://www.biorxiv.org/content/10.1101/2024.10.09.61750
 ### Generative AI for DNA
 Beyond prediction, I am interested in synthesis - engineering DNA sequences to achieve better therapeutic outcomes. For example:
 
-* **[regLM](https://genome.cshlp.org/content/early/2024/09/24/gr.279142.124.abstract):** As the first autoregressive language model trained specifically to design human regulatory DNA, regLM treats genomic sequences as a structured language. It can generate synthetic promoters and enhancers that follow the "syntax" of the human genome. This work demonstrated that a language model can design realistic functional genomic elements with tailored regulatory properties, opening new doors for synthetic biology.
+* **[regLM](https://genome.cshlp.org/content/early/2024/09/24/gr.279142.124.abstract):** As the first autoregressive language model trained specifically to design regulatory DNA, regLM treats genomic sequences as a structured language. It can generate synthetic promoters and enhancers that follow the "syntax" of the human genome. This work demonstrated that a language model can design realistic functional genomic elements with tailored regulatory properties, opening new doors for synthetic biology.
 
 * **[Polygraph](https://link.springer.com/article/10.1186/s13059-025-03584-9):** As generative models become widespread in biology, validating their output is essential. Polygraph uses a suite of biological "filters" and deep learning evaluators to test whether AI-designed regulatory sequences are biologically realistic.
 
