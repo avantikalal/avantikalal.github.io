@@ -1,5 +1,5 @@
----
 layout: page
+---
 ---
 <div class="hero-section" style="
     position: relative;
@@ -39,13 +39,6 @@ I am a Principal Machine Learning Scientist at Genentech, where I lead efforts t
 
 By combining large-scale genomics with deep learning, I build models that understand the underlying regulatory logic of the human genome. This work is critical for identifying disease drivers, discovering novel drug targets, and designing the next generation of therapeutics.
 
-### Vision
-My work focuses on three pillars of the AI/Genomics revolution:
-* **Generative Genomics:** Building AI models that can design functional human DNA.
-* **Interpretable AI:** Moving beyond black-box models to extract biological insights.
-* **Open Ecosystems:** Developing easy-to-use software that enables biologists to adopt deep learning methods.
-
-### Professional Journey
 Before joining Genentech, I spent my career at the intersection of technology innovation and biological research:
 * **insitro:** Applied AI to target discovery for neurological diseases.
 * **NVIDIA:** Developed GPU-accelerated solutions for the life sciences.
